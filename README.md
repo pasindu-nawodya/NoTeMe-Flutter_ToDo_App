@@ -1,6 +1,6 @@
 # noteme
 
-A new Flutter project.
+This application build using flutter. It is simple todo application that can add notes and delete notes.
 
 ## Getting Started
 
